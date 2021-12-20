@@ -1,0 +1,5 @@
+---
+controller:
+  extraArgs:
+    default-ssl-certificate: "nginx/linode-lb-secret"
+
